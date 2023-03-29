@@ -2,19 +2,19 @@
     "AircraftList" : [
     ],
     "BaseCost" : 425,
-    "CanBePlacedInWater" : false,
+    "CanBePlacedInWater" : true,
     "CanBePlacedOnLand" : true,
     "CanBePlacedOnPath" : false,
-    "CanTargetCamo" : false,
+    "CanTargetCamo" : true,
     "DefaultWeapons" : [
         "CobraMonkey.weapon"
     ],
     "Description" : "Covert Ops Battles Response Agent. Enhances your abilities and hinders your opponents. The ultimate utility weapon for BTD Battles.",
     "Icon" : "cobra_avatar_small",
     "PlacementH" : 0.0,
-    "PlacementRadius" : 8.0,
+    "PlacementRadius" : 0.0,
     "PlacementW" : 0.0,
-    "RankToUnlock" : 3,
+    "RankToUnlock" : 1,
     "RotatesToTarget" : true,
     "TargetIsWeaponOrigin" : false,
     "TargetingMode" : "First",
