@@ -1,0 +1,49 @@
+{
+    "TypeName" : "WizardLord",
+    "Icon" : "wizard_lord_avatar_small",
+    "BaseCost" : 3500,
+    "RankToUnlock" : 1,
+    "DefaultWeapons" : [
+        "WizardLord.weapon",
+        "WizardLordFireball.weapon",
+        "WizardLordDragonbreath.weapon",
+		"WizardLordChainLightning.weapon",
+		"WizardLordSummonPhoenix.weapon",
+		"WizardLordWhirlwind.weapon"
+    ],
+    "ActiveWeaponSlots" : [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+
+    "TargetingMode" : "First",
+    "TargetsManually" : false,
+    "TargetIsWeaponOrigin" : false,
+	"DrawWeaponsOnTop" : false,
+
+    "UpgradeGateway" :
+	[
+		[  ],
+		[  ]
+	],
+    
+    "AircraftList" : [ ],
+    
+    "RotatesToTarget" : true,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 0.0,
+    "PlacementW" : 0.0,
+    "UseRadiusPlacement" : true,
+
+    "DefaultSprite" : "WizardLord.json",
+    "SkipFirstFrameWhenFiring" : true
+}

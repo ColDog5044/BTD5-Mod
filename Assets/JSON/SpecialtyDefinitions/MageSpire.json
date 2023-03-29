@@ -49,7 +49,7 @@
             "Text" : "LOC_SPEC_Mage_IV",
             "TowerModifiers" :
             [{
-                "TargetingFilter" : { "Include" : { "TowerType": [ "MonkeyApprentice", "WizardLord" ] } },
+                "TargetingFilter" : { "Include" : { "TowerType": [ "MonkeyApprentice", "WizardLord", "TheWizardLord" ] } },
                 "Modifier" :
                 {
                     "EnabledSubtasks" : [ [ 2, [ 0, 2 ], true ] ]
