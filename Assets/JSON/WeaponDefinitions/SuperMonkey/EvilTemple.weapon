@@ -1,9 +1,9 @@
 {	
     "Type":             "EvilTemple",
     "TargetRange":      0.0,
-	"CooldownTime":     60,
+	"CooldownTime":     0,
     "FireDelayTime":    0.2,
-	"ManuallyFired": 		true,
+	"ManuallyFired": 		false,
 	"RequiresTargetToFire":	false,
     
     "Tasks" :
@@ -15,7 +15,7 @@
 			"ApplyToUserTower": true,
 			"TerminateOnUserUpgrade": false,
 
-			"Duration": 10,
+			"Duration": 60,
 			"NumPersists": 10,
 
 			"TargetingFilter":
