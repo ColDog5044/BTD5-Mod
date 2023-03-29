@@ -1,0 +1,8 @@
+{
+	"Rules" : {
+		"Reward" : {
+			"MonkeyMoney": 500,
+  			"MonkeyMoneyMultiplier" : 1.0
+		}
+	}
+}

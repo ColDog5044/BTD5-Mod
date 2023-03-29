@@ -1,0 +1,82 @@
+{
+    "SFX": [
+		[ "EXPLOSION", 0.1, [
+			"explosion_small.wav"
+		]],
+		[ "FROZEN_HIT", 0.1, [
+			"frozen_bloon_hit_mastered.wav"
+		]],
+		[ "CERAMIC_HIT", 0.1, [
+			"ceramic_bloon_hit.wav"
+		]],
+		[ "METAL_HIT", 0.1, [
+			"metal_bloon_hit.wav"
+		]],
+		[ "MOAB_HIT", 0.1, [
+			"moab_damage_quieter.wav"
+		]],
+		[ "MOAB_DESTROY", 0.5, [
+			"moab_destroyed_short.wav"
+		]],
+		[ "TOWER_PLACE", 0.5, [
+            "tower_place.wav"
+        ]],
+        [ "TOWER_SELL", 0.2, [
+            "sell_tower.wav"
+        ]],
+		[ "TOWER_UPGRADE", 0.1, [
+			"upgrade.wav"
+		]],
+		[ "TOWER_UNLOCK", 0.1, [
+			"unlocked_stuff.wav"
+		]],
+        [ "TOWER_LEVEL_UP", 0.1, [
+            "tower_level_up.wav"
+        ]],
+		[ "GAME_OVER", 0.1, [
+			"game_over.wav"
+		]],
+		[ "GAME_WIN", 0.1, [
+			"game_win.wav"
+		]],
+		[ "ANGRY_SQUIRREL", 0.1, [
+			"squirrel_angry.wav"
+		]],
+		["BLOON_SCRAMBLER", 0.1, [
+			"Bell3.wav"
+		]],
+		[ "BOSS_DEATH", 0.1, [
+			"BossDeath.wav"
+		]],
+		[ "SWAMP_DEATH", 0.1, [
+			"SwampDeath.wav"
+		]],
+		[ "SWAMP_SPAWN", 0.1, [
+			"SwampSpawn.wav"
+		]],
+		[ "VORTEX_SPAWN", 0.1, [
+			"VortexSpawn.wav"
+		]],
+		["DREADBLOON_SPAWN", 0.1, [
+			"DreadBloonSpawn.wav"
+		]],
+		["DREADBLOON_RECHARGE", 0.1, [
+			"DreadBloonReshield.wav"
+		]],
+		["DREADBLOON_RECHARGE_SHORT", 0.1, [
+			"DreadBloonReshieldShort.wav"
+		]],
+		["DREADBLOON_ROCK_SHATTER", 0.1, [
+			"DreadBloonRockShatter.wav"
+		]],
+		["BLASTAPOPOULOS_ATTACK", 0.1, [
+			"BlastapopulousAttack.wav"
+		]],
+		["BLASTAPOPOULOS_IMPACT", 0.1, [
+			"BlastapopulousImpact.wav"
+		]],
+		["BLASTAPOPOULOS_INTRO", 0.1, [
+			"BlastapopulousIntro.wav"
+		]]
+	]
+}

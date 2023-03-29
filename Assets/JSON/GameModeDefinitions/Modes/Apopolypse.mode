@@ -1,0 +1,8 @@
+{
+	"Rules" : {
+		"CanSave" : false,
+		"PauseBetweenRounds" : false,
+        "BonusTokenRound"  :  -1,
+		"TargetRound" : -1
+        	}
+}

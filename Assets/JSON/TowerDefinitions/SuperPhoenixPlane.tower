@@ -1,0 +1,36 @@
+{
+    "TypeName" : "SuperPhoenixPlane",
+    "AircraftList" : [
+    ],
+    "BaseCost" : 0,
+    "CanBePlacedInWater" : true,
+    "CanBePlacedOnLand" : true,
+    "CanBePlacedOnPath" : false,
+    "CanTargetCamo" : true,
+    "DefaultWeapons" : [ "SuperPhoenixPlane.weapon" ],
+	"Duration": 30.0,
+    "Icon" : "dart_monkey_avatar_small",
+    "PlacementH" : 0.0,
+    "PlacementRadius" : 0.0,
+    "PlacementW" : 0.0,
+    "RankToUnlock" : 1,
+    "RotatesToTarget" : false,
+    "DefaultSprite" : "WizardLordSummonPhoenixEffect.json",
+    "TargetIsWeaponOrigin" : false,
+    "TargetingMode" : "AnyInRange",
+    "TargetsManually" : false,
+    "Upgrades" :
+    [
+    	[  ],
+    	[  ]
+    ],
+    "UpgradePrices" : 
+    [
+        [  ],
+        [  ]
+    ],
+    "UseRadiusPlacement" : true,
+    "IsAircraft" : true,
+    "AircraftRadius" : 150,
+    "AircraftSpeed" : 80
+}

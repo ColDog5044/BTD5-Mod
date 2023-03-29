@@ -1,0 +1,35 @@
+{
+	"Setup"	: {
+		"Health" : 1,
+		"RoundFiles" : [
+			"Difficulty/Impoppable.mode"
+		]
+	},
+
+	"Rules" : {
+		"TargetRound" : 85,
+		"PriceModifier" : 1.2,
+        "BonusTokenRound"  :  99,
+		"Reward" : {
+			"MonkeyMoneyMultiplier" : 3.0,
+			"XPMultiplier" : 2.0
+		},
+		"SpeedModifier" : 0.25,
+		"BloonInitialHealthModifier" : {
+			"Ceramic" : 1.5,
+			"MOAB" : 2.0,
+			"BFB" : 2.0,
+			"ZOMG" : 2.0
+		}
+	},
+	
+	"Rounds" : [
+		{
+			"Hint" : "Impoppable Round 85",
+			"Round" : 85,
+			"Waves" : [
+				{ "Bloon" : "ZOMG", "IsCamo" : false, "IsRegen" : false, "Count" : 5, 	"StartTime" : 0,	"Duration" : 10 }
+			]
+		}
+	]
+}

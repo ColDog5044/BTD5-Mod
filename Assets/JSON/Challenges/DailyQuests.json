@@ -1,0 +1,562 @@
+{
+	"Data": [{
+		"_ID": "PopLead",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["Lead"]
+		},
+		"Target": 600,
+		"Reward": {
+			"Agents": ["TribalTurtle"]
+		}
+	}, {
+		"_ID": "BeehiveJive",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "BeeKeeper"
+		},
+		"Target": 50000,
+		"Reward": {
+			"Towers": ["MonkeySub"]
+		}
+	}, {
+		"_ID": "StickyGlue",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "GlueGunner",
+			"TowerPathA": [2],
+			"TowerPathB": [0, 1, 2, 3, 4]
+		},
+		"Target": 1000,
+		"Reward": {
+			"Agents": ["Pontoon"],
+			"MonkeyMoney": 25
+		}
+	}, {
+		"_ID": "MoabRock",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["MOAB"]
+		},
+		"Target": 1500,
+		"Reward": {
+			"Agents": ["SuperMonkeyStorm"],
+			"Towers": ["BombTower"]
+		}
+	}, {
+		"_ID": "RegenThis",
+		"Type": "PopBloon",
+		"TypeData": {
+			"IsRegen": true
+		},
+		"Target": 123456,
+		"Reward": {
+			"Towers": ["GlueGunner", "SpikeFactory"]
+		}
+	}, {
+		"_ID": "PinaColada",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "ExplodingPineapple"
+		},
+		"Target": 500,
+		"Reward": {
+			"Towers": ["MonkeyAce"]
+		}
+	}, {
+		"_ID": "bionicMeerkat",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "MeerkatSpyPro"
+		},
+		"Target": 10000,
+		"Reward": {
+			"Towers": ["NinjaMonkey", "NinjaMonkey"]
+		}
+	}, {
+		"_ID": "upgradeComplete",
+		"Type": "SpecialityBuilding",
+		"TypeData": {},
+		"Target": 1,
+		"DescID": "LOC_DAILYQUEST_DESC_FIXED_upgradeComplete",
+		"Reward": {
+			"Agents": ["SuperMonkeyStorm"]
+		}
+	}, {
+		"_ID": "unseenDanger",
+		"Type": "PopBloon",
+		"TypeData": {
+			"IsCamo": true
+		},
+		"Target": 80000,
+		"Reward": {
+			"Agents": ["BloonberryBush", "MeerkatSpy"]
+		}
+	}, {
+		"_ID": "iceIceBaby",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "IceTower",
+			"TowerPathA": [2],
+			"TowerPathB": [0, 1, 2, 3, 4]
+		},
+		"Target": 1000,
+		"Reward": {
+			"Agents": ["BloonberryBush"],
+			"MonkeyMoney": 25
+
+		}
+	}, {
+		"_ID": "stripedAllOver",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["Zebra"]
+		},
+		"Target": 32500,
+		"Reward": {
+			"MonkeyMoney": 50
+		}
+	}, {
+		"_ID": "fragOut",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["Black"],
+			"WithTower": "BombTower"
+		},
+		"Target": 2000,
+		"Reward": {
+			"Towers": ["TackTower", "TackTower"]
+		}
+	}, {
+		"_ID": "flashBang",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["Lead"],
+			"WithTower": "NinjaMonkey",
+			"TowerPathA": [0, 1, 2, 3, 4],
+			"TowerPathB": [3]
+
+		},
+		"Target": 500,
+		"Reward": {
+			"Agents": ["TribalTurtle"]
+		}
+	}, {
+		"_ID": "angryAngrySquirrels",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "AngrySquirrel"
+		},
+		"Target": 25000,
+		"Reward": {
+			"Towers": ["SniperMonkey", "SniperMonkey"]
+		}
+	}, {
+		"_ID": "bigFriendly",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["BFB"]
+		},
+		"Target": 250,
+		"Reward": {
+			"MonkeyMoney": 250
+		}
+	}, {
+		"_ID": "below",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "PortableLakePro"
+		},
+		"Target": 5000,
+		"Reward": {
+			"Towers": ["MonkeyBuccaneer", "MonkeyBuccaneer"]
+		}
+	}, {
+		"_ID": "somewhere",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["Rainbow"]
+		},
+		"Target": 17500,
+		"Reward": {
+			"MonkeyMoney": 100
+		}
+	}, {
+		"_ID": "highVoltage",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "MonkeyVillage",
+			"TowerPathA": [4],
+			"TowerPathB": [0, 1, 2, 3, 4]
+		},
+		"Target": 1000,
+		"Reward": {
+			"Towers": ["NinjaMonkey", "BoomerangThrower"]
+		}
+	}, {
+		"_ID": "spikeMaster",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "RoadSpikes"
+		},
+		"Target": 1000,
+		"Reward": {
+			"Towers": ["SpikeFactory"]
+		}
+	}, {
+		"_ID": "poundZero",
+		"Type": "SpecialAbility",
+		"TypeData": {
+			"Ability": "GroundZero"
+		},
+		"Target": 50,
+		"Reward": {
+			"MonkeyMoney": 50
+		}
+	}, {
+		"_ID": "zomgantic",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["ZOMG"]
+		},
+		"Target": 50,
+		"Reward": {
+			"MonkeyMoney": 250,
+			"Agents": ["BloonsdayDevice"]
+
+		}
+	}, {
+		"_ID": "theWildBloonberries",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "BloonberryBush"
+		},
+		"Target": 25000,
+		"Reward": {
+			"Towers": ["SpikeFactory"]
+
+		}
+	}, {
+		"_ID": "allCashedUp",
+		"Type": "CollectCash",
+		"TypeData": {
+             "Type" : "BananaFarm"
+        },
+		"Target": 10000,
+		"Reward": {
+			"Towers": ["DartlingGun"]
+
+		}
+	}, {
+		"_ID": "fearTheJuggernaut",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["Lead"],
+			"WithTower": "DartMonkey",
+			"TowerPathA": [4],
+			"TowerPathB": [0, 1, 2, 3, 4]
+		},
+		"Target": 300,
+		"Reward": {
+			"Towers": ["SniperMonkey", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple"]
+
+		}
+	}, {
+		"_ID": "spotter",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "MonkeySub",
+			"TowerPathA": [2],
+			"TowerPathB": [0, 1, 2, 3, 4]
+		},
+		"Target": 75000,
+		"Reward": {
+			"Towers": ["GlueGunner", "MonkeySub"]
+
+		}
+	}, {
+		"_ID": "hardened",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["Ceramic"]
+		},
+		"Target": 7500,
+		"Reward": {
+			"Agents": ["BeeKeeper"],
+			"Towers": ["MonkeyApprentice"]
+
+		}
+	}, {
+		"_ID": "missionImpossible",
+		"Type": "TracksCompleted",
+		"TypeData": {
+             "Type": "Special"
+             },
+		"Target": 1,
+		"Reward": {
+			"MonkeyMoney": 25,
+			"Agents": ["MeerkatSpy", "MeerkatSpy"]
+		}
+	}, {
+		"_ID": "stunGun",
+		"Type": "PopBloon",
+		"TypeData": {
+			"BloonTypes": ["MOAB", "BFB","ZOMG"],
+			"WithTower": "SniperMonkey",
+			"TowerPathA": [4],
+            "TowerPathB": [0, 1, 2, 3, 4]
+		},
+		"Target": 100,
+		"Reward": {
+			"Agents": ["SuperMonkeyStorm"]
+		}
+	}, {
+		"_ID": "assemble",
+		"Type": "BuyAgents",
+		"TypeData": {
+
+		},
+		"Target": 5,
+		"Reward": {
+			"Towers": ["TackTower", "BombTower"]
+		}
+	}, {
+		"_ID": "tmnt",
+		"Type": "PopBloon",
+		"TypeData": {
+			"WithTower": "TribalTurtle"
+		},
+		"Target": 50000,
+		"Reward": {
+			"Towers": ["NinjaMonkey", "NinjaMonkey"]
+		}
+	}, {
+		"_ID": "dreadPirate",
+		"Type": "SpecialAbility",
+		"TypeData": {
+			"Ability": "MOABTakedown"
+		},
+		"Target": 50,
+		"Reward": {
+			"Towers": ["MonkeySub"]
+		}
+	}, {
+		"_ID": "payDay",
+		"Type": "Earn",
+		"Long": true,
+		"TypeData": {},
+		"Target": 500,
+		"Reward": {
+			"Towers": ["BananaFarm"]
+		}
+	}, {
+		"_ID": "epicRange",
+		"Type": "PopBloon",
+		"Long": true,
+		"TypeData": {
+			"WithTower": "SuperMonkey",
+			"TowerPathA": [0],
+			"TowerPathB": [2]
+		},
+		"Target": 20000,
+		"Reward": {
+			"MonkeyMoney": 100,
+			"Towers": ["BoomerangThrower"]
+		}
+	}, {
+		"_ID": "overTheRainbow",
+		"Type": "PopBloon",
+		"Long": true,
+		"TypeData": {
+			"BloonTypes": ["Rainbow"]
+		},
+		"Target": 100000,
+		"Reward": {
+			"MonkeyMoney": 100
+		}
+	}, {
+		"_ID": "legend",
+		"Type": "PopBloon",
+		"Long": true,
+		"TypeData": {},
+		"Target": 500000,
+		"Reward": {
+			"MonkeyMoney": 250
+		}
+	}, {
+		"_ID": "rolling",
+		"Type": "Earn",
+		"Long": true,
+		"TypeData": {},
+		"Target": 1000,
+		"Reward": {
+			"Towers": ["BananaFarm", "MonkeyVillage"]
+		}
+	}, {
+		"_ID": "spikeopult",
+		"Type": "PopBloon",
+		"Long": true,
+		"TypeData": {
+			"WithTower": "DartMonkey",
+			"TowerPathA": [3],
+			"TowerPathB": [0, 1, 2, 3, 4]
+		},
+		"Target": 30000,
+		"Reward": {
+			"MonkeyMoney": 100,
+			"Towers": ["BombTower", "BombTower"]
+		}
+	}, {
+		"_ID": "expertlyDone",
+		"Type": "TracksCompleted",
+		"Long": true,
+		"TypeData": {
+			"MapDifficulty": "Expert"
+		},
+		"Target": 4,
+		"Reward": {
+			"MonkeyMoney": 150,
+			"Towers": ["DartlingGun"]
+		}
+	}, {
+		"_ID": "meanAndUnseen",
+		"Type": "PopBloon",
+		"Long": true,
+		"TypeData": {
+			"BloonTypes": ["Lead"],
+			"IsCamo": true
+		},
+		"Target": 500,
+		"Reward": {
+			"MonkeyMoney": 50,
+			"Agents": ["MeerkatSpy", "MeerkatSpy"]
+		}
+	}, {
+		"_ID": "redHot",
+		"Type": "PopBloon",
+		"Long": true,
+		"TypeData": {
+			"IsFrozen": true,
+			"WithTower": "BoomerangThrower"
+		},
+		"Target": 25000,
+		"Reward": {
+			"Agents": ["BloonberryBush", "MonkeyApprentice"]
+		}
+	}, {
+		"_ID": "hitTheJackpot",
+		"Type": "CollectCash",
+		"Long": true,
+		"TypeData": {
+             "Type" : "BananaFarm"
+             },
+		"Target": 100000,
+		"Reward": {
+			"Towers": ["MortarTower", "MortarTower"]
+		}
+	}, {
+		"_ID": "extraHardened",
+		"Type": "PopBloon",
+		"Long": true,
+		"TypeData": {
+			"BloonTypes": ["Ceramic"]
+		},
+		"Target": 50000,
+		"Reward": {
+			"MonkeyMoney": 150,
+			"Agents": ["SuperMonkeyStorm"]
+		}
+	}, {
+		"_ID": "bloonPopper",
+		"Type": "PopBloon",
+		"Long": true,
+		"TypeData": {},
+		"Target": 1000000,
+		"Reward": {
+			"Towers": ["SuperMonkey"],
+			"Agents": ["BloonsdayDevice", "SuperMonkeyStorm"]
+		}
+	}, {
+		"_ID": "easyAsPie",
+		"Type": "TracksCompleted",
+		"Long": true,
+		"TypeData": {
+			"GameDifficulty": "Easy"
+		},
+		"Target": 10,
+		"Reward": {
+			"MonkeyMoney": 200
+		}
+	}, {
+		"_ID": "challengeAccepted",
+		"Type": "TracksCompleted",
+		"Long": true,
+		"TypeData": {
+			"Type": "Challenge"
+		},
+		"Target": 6,
+		"Reward": {
+			"MonkeyMoney": 50,
+			"Agents": ["BloonberryBush", "BloonberryBush"]
+		}
+	}, {
+		"_ID": "epicBloonPopper",
+		"Type": "PopBloon",
+		"Long": true,
+		"TypeData": {
+		},
+		"Target": 250000,
+		"Reward": {
+			"MonkeyMoney": 100
+		}
+	}, {
+		"_ID": "agentPros",
+		"Type": "BuyAgents",
+		"Long": true,
+		"TypeData": {
+
+		},
+		"Target": 20,
+		"Reward": {
+           "MonkeyMoney": 150,
+           "Towers": ["BananaFarm", "MonkeyVillage"]
+		}
+	}, {
+		"_ID": "advancedTactics",
+		"Type": "TracksCompleted",
+		"Long": true,
+		"TypeData": {
+			"MapDifficulty": "Advanced",
+			"GameDifficulty": "Medium",
+			"GameDifficultyAndAbove": true
+		},
+		"Target": 6,
+		"Reward": {
+			"MonkeyMoney": 200
+    }
+    }, {
+		 "_ID": "thebigshred",
+		"Type": "PopBloon",
+		"TypeData": {
+             "BloonTypes": ["MOAB", "BFB","ZOMG"],
+             "WithTower": "Bloonchipper",
+             "TowerPathA": [4],
+             "TowerPathB": [0, 1, 2, 3, 4]
+     },
+		"Target": 100,
+		"Reward": {
+             "MonkeyMoney": 40,
+             "Towers": ["BombTower"]
+             }
+    }, {
+		"_ID": "trapmoney",
+		"Type": "CollectCash",
+		"TypeData": {
+             "Type" : "MonkeyEngineer"
+             },
+		"Target": 5000,
+		"Reward": {
+             "Towers": ["BananaFarm"]
+             }
+    }]
+}

@@ -1,0 +1,273 @@
+{
+    "Data": [
+    {
+		"Reward": {
+             "MonkeyMoney": 50
+        }
+    },
+    {
+		"Reward": {
+             "Agents": ["BloonberryBush"]
+     	}
+	},  {
+		"Reward": {
+			"Agents": ["SuperMonkeyStorm"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["SpikeFactory"]
+		}
+	}, {
+		"Reward": {
+			"MonkeyMoney": 100
+		}
+	}, {
+		"Reward": {
+			"Agents": ["TribalTurtle"]
+		}
+	}, {
+		"Reward": {
+			"Tokens": 3
+		}
+	}, {
+		"Reward": {
+			"Towers": ["MonkeyAce"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["Radadactyl"]
+		}
+	}, {
+		"Reward": {
+			"MonkeyMoney": 250
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BeeKeeper"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BananaFarmer", "BananaFarmer", "BananaFarmer"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["MonkeyApprentice"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["SuperMonkeyStorm", "SuperMonkeyStorm", "SuperMonkeyStorm"]
+		}
+	}, {
+		"Reward": {
+			"MonkeyMoney": 400
+		}
+	}, {
+		"Reward": {
+			"Towers": ["RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes"
+			]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BloonberryBush", "BloonberryBush", "BloonberryBush"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["HeliPilot"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["BombTower", "NinjaMonkey"]
+		}
+	}, {
+		"Reward": {
+			"MonkeyMoney": 250,
+			"Tokens": 3
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BloonsdayDevice"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["BananaFarm"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["Radadactyl", "Radadactyl", "Radadactyl"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BeeKeeper", "BeeKeeper", "BeeKeeper"]
+		}
+	}, {
+		"Reward": {
+			"MonkeyMoney": 400
+		}
+	}, {
+		"Reward": {
+			"Towers": ["MonkeyVillage"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["NinjaMonkey", "NinjaMonkey"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BloonsdayDevice", "BloonsdayDevice"]
+		}
+	}, {
+		"Reward": {
+			"Tokens": 3
+		}
+	}, {
+		"Reward": {
+			"MultiplyMonkeyMoney_Hours": 72,
+            "MultiplyMonkeyMoney_Multiplier": 2
+		}
+	}, {
+		"Reward": {
+			"Towers": ["SuperMonkey"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BloonberryBush", "AngrySquirrel", "TribalTurtle"]
+		}
+	}, {
+		"Reward": {
+			"MonkeyMoney": 400
+		}
+	}, {
+		"Reward": {
+			"Towers": ["MonkeyBuccaneer", "MonkeySub"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes",
+				"RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes", "RoadSpikes"
+			]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["MonkeyAce", "HeliPilot"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["SuperMonkeyStorm", "SuperMonkeyStorm", "SuperMonkeyStorm"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["Bloonchipper", "MonkeyEngineer"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BananaFarmer", "BananaFarmer", "BananaFarmer"]
+		}
+	}, {
+		"Reward": {
+			"MonkeyMoney": 400
+		}
+	}, {
+		"Reward": {
+			"Towers": ["SpikeFactory", "TackTower"]
+		}
+	}, {
+		"Reward": {
+			"Tokens": 3
+		}
+	}, {
+		"Reward": {
+			"Towers": ["NinjaMonkey", "BoomerangThrower"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BloonberryBush", "BloonberryBush", "BloonberryBush"]
+		}
+	}, {
+		"Reward": {
+             "MultiplyMonkeyMoney_Hours": 72,
+             "MultiplyMonkeyMoney_Multiplier": 2
+             }
+	}, {
+		"Reward": {
+			"Towers": ["IceTower", "IceTower", "GlueGunner", "GlueGunner"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["Radadactyl", "Radadactyl", "Radadactyl"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["SniperMonkey", "MortarTower"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["DartlingGun", "DartlingGun"]
+		}
+	}, {
+		"Reward": {
+			"MonkeyMoney": 400
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BeeKeeper", "BeeKeeper", "BeeKeeper"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["MonkeyVillage", "BananaFarm"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple",
+				"ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple",
+				"ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple",
+				"ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple",
+				"ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple",
+				"ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple",
+				"ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple",
+				"ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple",
+				"ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple",
+				"ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple", "ExplodingPineapple"
+			]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["Bloonchipper", "Bloonchipper", "Bloonchipper"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["SuperMonkey"]
+		}
+	}, {
+		"Reward": {
+			"Towers": ["NinjaMonkey", "NinjaMonkey"]
+		}
+	}, {
+		"Reward": {
+			"Agents": ["BloonsdayDevice", "BloonsdayDevice"]
+		}
+	}, {
+		"Reward": {
+			"MonkeyMoney": 400
+		}
+	}, {
+		"Reward": {
+			"Tokens": 3
+		}
+	}, {
+		"Reward": {
+             "MultiplyMonkeyMoney_Hours": 72,
+             "MultiplyMonkeyMoney_Multiplier": 2
+             }
+	}]
+}
