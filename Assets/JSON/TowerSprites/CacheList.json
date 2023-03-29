@@ -257,7 +257,88 @@
         }, 
         {
             "file": "BuccaneerWhiteSail.json"
-        }, 
+        },
+        {
+            "file": "Cobra_Attrition_Left.json"
+        },
+        {
+            "file": "Cobra_Attrition_Right.json"
+        },
+        {
+            "file": "Cobra_DoubleTap_BloonAdjustment_Left.json"
+        },
+        {
+            "file": "Cobra_DoubleTap_BloonAdjustment_Right.json"
+        },
+        {
+            "file": "Cobra_DoubleTap_FinishHim_Left.json"
+        },
+        {
+            "file": "Cobra_DoubleTap_FinishHim_Right.json"
+        },
+        {
+            "file": "Cobra_DoubleTap_Left.json"
+        },
+        {
+            "file": "Cobra_DoubleTap_MonkeyStim_Left.json"
+        },
+        {
+            "file": "Cobra_DoubleTap_MonkeyStim_Right.json"
+        },
+        {
+            "file": "Cobra_OffensivePush_Left.json"
+        },
+        {
+            "file": "Cobra_OffensivePush_Right.json"
+        },
+        {
+            "file": "Cobra_DoubleTap_Right.json"
+        },
+        {
+            "file": "CobraMonkey_Attrition.json"
+        },
+        {
+            "file": "CobraMonkey_BloonAdjustment.json"
+        },
+        {
+            "file": "CobraMonkey_DoubleTap_Attrition.json"
+        },
+        {
+            "file": "CobraMonkey_DoubleTap_BloonAdjustment.json"
+        },
+        {
+            "file": "CobraMonkey_DoubleTap_FinishHim.json"
+        },
+        {
+            "file": "CobraMonkey_DoubleTap_WiredFunds.json"
+        },
+        {
+            "file": "CobraMonkey_DoubleTap.json"
+        },
+        {
+            "file": "CobraMonkey_FinishHim.json"
+        },
+        {
+            "file": "CobraMonkey_Misdirection.json"
+        },
+        {
+            "file": "CobraMonkey_MonkeyStim.json"
+        },
+        {
+            "file": "CobraMonkey_OffensivePush.json"
+        },
+        {
+            "file": "CobraMonkey_WiredFunds_Attrition.json"
+        },
+        {
+            "file": "CobraMonkey_WiredFunds_FinishHim.json"
+        },
+        {
+            "file": "CobraMonkey_WiredFunds.json"
+        },
+        {
+            "file": "CobraMonkey.json"
+        },
         {
             "file": "DartlingGun.json"
         }, 
