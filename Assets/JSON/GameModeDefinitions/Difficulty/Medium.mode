@@ -7,9 +7,9 @@
 	},
 	
 	"Rules" : {
-		"TargetRound" : 65,
-        "BonusTokenRound"  :  99,
-		"PriceModifier" : 1.0,
+		"TargetRound" 		: 65,
+        "BonusTokenRound"	: 99,
+		"PriceModifier" 	: 1.0,
 		"Reward" : {
 			"MonkeyMoneyMultiplier" : 1.25,
 			"XPMultiplier" : 1.0
