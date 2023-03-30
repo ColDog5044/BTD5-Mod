@@ -1,7 +1,7 @@
 {	
     "Type":             "WizardLord",    
     "TargetRange":      120.0,
-	"CooldownTime":     0.8857142857,
+	"CooldownTime":     0.8,
     "FireDelayTime":    0.2,
     
     "Tasks" :
@@ -9,7 +9,7 @@
 		{
 			"Type":             "Projectile",
 			"SpriteFile":      "MonkeyApprenticeIntenseMagicBlueProjectile.json",
-			"NumPersists":      7,
+			"NumPersists":      8,
 
 			"TerminateOnZeroPersists": true,
 			
