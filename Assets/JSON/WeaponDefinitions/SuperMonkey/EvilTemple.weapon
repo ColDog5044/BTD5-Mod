@@ -43,7 +43,7 @@
         {
 			"Type": "Effect",
 			"SpriteFile": "EvilMonkeyTempleAbility.json",
-            "Duration" : 10,
+            "Duration" : 60,
 			"Position": [240, 160],
 			"DrawLayer": "FullScreen"
 		},
